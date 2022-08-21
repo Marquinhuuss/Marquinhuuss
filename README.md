@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marquinhuuss
+- 👋 Olá, me chamo @Marquinhuuss
 - 👀 Estou interessado em estagios e oportunidades para iniciar na area
 - 🌱 Atualmente estudando Banco de Dados e C#
 - 💞️ Quero colaborar com quem ira trabalhar ao meu lado na empresa
