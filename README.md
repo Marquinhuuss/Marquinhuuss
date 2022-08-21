@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Marquinhuuss
-- 👀 I’m interested in estagios e oportunidades para iniciar na area
-- 🌱 I’m currently learning Banco de Dados e C#
-- 💞️ I’m looking to collaborate on com quem ira trabalhar ao meu lado na empresa
-- 📫 How to reach me email: marcossipriano54@gmail.com / whatsapp: 11 958972792
+- 👀 Estou interessado em estagios e oportunidades para iniciar na area
+- 🌱 Atualmente estudando Banco de Dados e C#
+- 💞️ Quero colaborar com quem ira trabalhar ao meu lado na empresa
+- 📫 Comunique-se comigo através do email: marcossipriano54@gmail.com ou whatsapp: 11 958972792
 
 <!---
 Marquinhuuss/Marquinhuuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
