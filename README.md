@@ -7,6 +7,5 @@
 #Tecnologias que uso no meu dia!
 
 <div style="display: inline_block">
- https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
-  
+ <img align="center" alt="Java" height="45" width="85" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
